@@ -10,10 +10,9 @@
     </path></svg></a>Hi! I'm Virgile Broillet.
   </h3>
 <p dir="auto">
-  I'm a <strong>Computer Science Student</strong>. In 2021, I created a <a href="https://leafletjs.com" rel="nofollow">Broken Brick</a> during my Mathematics and Computer Science courses, <a href="https://perso.liris.cnrs.fr/alexandre.meyer/public_html/www/doku.php?id=lifami">LIFAMI</a>. Then in 2022 during my 2nd year, I started to become interested in Network and Web Programming, I create a Website Project with an SQL DataBase, <a href="https://mapbox.com" rel="nofollow">Music Playlist Watcher</a>. Here are the Website of my University: <a href="https://univ-lyon1.fr" rel="nofollow">University Lyon 1, Claude Bernard</a></p>
+  I'm a <strong>Computer Science Student</strong>. In 2021, I created a <a href="https://leafletjs.com" rel="nofollow">Broken Brick</a> during my Mathematics and Computer Science courses, <a href="https://perso.liris.cnrs.fr/alexandre.meyer/public_html/www/doku.php?id=lifami">LIFAMI</a>. Then in 2022 during my 2nd year, I started to become interested in Network and Web Programming, I create a Website Project with an SQL DataBase, <a href="https://mapbox.com" rel="nofollow">Music Playlist Watcher</a>. Here are the Website of my University: <a href="https://univ-lyon1.fr" rel="nofollow">University Lyon 1, Claude Bernard</a>.</p>
 <p dir="auto"
-   >I'm a <strong>musician</strong>. I write songs, play guitar and sing in <a href="https://linktr.ee/flyingnuggets" rel="nofollow">Flying Nuggets</a>. If you like the fusion of different musical styles like Metal & Disco, check out our <a href="https://www.youtube.com/playlist?list=PLCm7LmsPGur-J1iB1k6nMyK2CK7FbTSKO" rel="nofollow">last album
-  </a>.
+   >I'm a <strong>musician</strong>. I write songs, play guitar and sing in <a href="https://linktr.ee/flyingnuggets" rel="nofollow">Flying Nuggets</a>. If you like the fusion of different musical styles like Metal & Disco, check out our <a href="https://www.youtube.com/playlist?list=PLCm7LmsPGur-J1iB1k6nMyK2CK7FbTSKO" rel="nofollow">last album</a>.
  </p>
 <p dir="auto">
   I'm a <strong>20 year old student</strong>, I take advantage of my studies to learn a maximum an live in Lyon, France. I love Archery, practice in competition and represent my University, You can find tidbits of my life on <a href="https://www.instagram.com/___kalak___/?hl=en" rel="nofollow">Instagram</a>, <a href="https://twitter.com/Virgile1301" rel="nofollow">Twitter</a> and <a href="https://www.facebook.com/virgile.broillet/" rel="nofollow">Facebook</a>.</p>
