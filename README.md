@@ -15,5 +15,5 @@
    >I'm a <strong>musician</strong>. I write songs, play guitar and sing in <a href="https://linktr.ee/flyingnuggets" rel="nofollow">Flying Nuggets</a>. If you like the fusion of different musical styles like Metal & Disco, check out our <a href="https://www.youtube.com/playlist?list=PLCm7LmsPGur-J1iB1k6nMyK2CK7FbTSKO" rel="nofollow">last album</a>.
  </p>
 <p dir="auto">
-  I'm a <strong>20 year old student</strong>, I take advantage of my studies to learn a maximum an live in Lyon, France. I love Archery, practice in competition and represent my University, You can find tidbits of my life on <a href="https://www.instagram.com/___kalak___/?hl=en" rel="nofollow">Instagram</a>, <a href="https://twitter.com/Virgile1301" rel="nofollow">Twitter</a> and <a href="https://www.facebook.com/virgile.broillet/" rel="nofollow">Facebook</a>.</p>
+  I'm a <strong>20 year old student</strong>, I take advantage of my studies to learn a maximum and I live in Lyon, France. I love Archery, practice in competition and represent my University, You can find tidbits of my life on <a href="https://www.instagram.com/___kalak___/?hl=en" rel="nofollow">Instagram</a>, <a href="https://twitter.com/Virgile1301" rel="nofollow">Twitter</a> and <a href="https://www.facebook.com/virgile.broillet/" rel="nofollow">Facebook</a>.</p>
 </article>
