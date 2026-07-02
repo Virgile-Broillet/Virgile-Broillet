@@ -21,8 +21,7 @@ from the <a href="https://icom.univ-lyon2.fr" rel="nofollow">ICOM Institute</a>,
 
 <p>
 I'm currently pursuing a
-<strong>Master's degree in Information et Médiation Scientifique et Technique (IMST)</strong>
-at
+I'm currently pursuing a <strong>Master's degree in Science Communication and Public Engagement (IMST)</strong> at
 <a href="https://www.univ-lyon1.fr" rel="nofollow">Université Claude Bernard Lyon 1</a>.
 My interests lie at the intersection of computer science, scientific mediation,
 open knowledge, and digital tools for research and education.
