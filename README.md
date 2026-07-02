@@ -1,12 +1,14 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2563EB,40:0891B2,70:10B981,100:14B8A6&text=Open%20Science&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Sharing%20Knowledge%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Scientific%20Mediation&descAlignY=58&animation=fadeIn"
-    alt="Open Science Banner"
-    width="100%"
-  />
+<p align="center" style="margin-bottom:-10px;">
+  <a href="https://www.ouvrirlascience.fr/accueil/" target="_blank">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,40:0891B2,70:10B981,100:14B8A6&text=Open%20Science&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Sharing%20Knowledge%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Scientific%20Mediation&descAlignY=57&animation=fadeIn"
+      alt="Learn more about Open Science"
+      width="100%"
+    />
+  </a>
 </p>
 
-<h3>👋 Hi! I'm Virgile Broillet.</h3>
+<h3 align="center">👋 Hi! I'm Virgile Broillet.</h3>
 
 <p>
 I'm a <strong>Computer Scientist</strong> passionate about
